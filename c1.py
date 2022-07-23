@@ -1,4 +1,4 @@
-import random
+
 import os
 
 def mac_spoof():
